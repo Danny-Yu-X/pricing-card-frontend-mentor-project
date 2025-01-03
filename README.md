@@ -25,7 +25,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](./desktopVersion)
+![](./desktopVersion.png)
 
 ## My process
 
