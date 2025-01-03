@@ -62,7 +62,7 @@ In future projects like this one, I plan to make clickable elements more interac
 
 ### Useful resources
 
-- [MDN Web Docs]([https://www.example.com](https://developer.mozilla.org/en-US/)) - This helped me reference important code syntax.
+- [MDN Web Docs](https://www.example.com](https://developer.mozilla.org/en-US/) - This helped me reference important code syntax.
 
 ## Author
 
